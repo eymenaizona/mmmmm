@@ -7,7 +7,7 @@
 
 2. Navigate to the `aizona_trade_engine` repository and copy `setup_server.sh`.
 
-3. Open `setup_server.sh` for editing:
+3. Open `setup_server.sh` for editing and paste:
     ```bash
     vi setup_server.sh
     ```
@@ -24,7 +24,7 @@
 
 6. Then, copy the `prep_env.sh` file from the `aizona_trade_engine` repository.
 
-7. Open `prep_env.sh` for editing:
+7. Open `prep_env.sh` for editing and paste:
     ```bash
     vi prep_env.sh
     ```
